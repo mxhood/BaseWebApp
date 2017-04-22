@@ -9,3 +9,7 @@ function myFunction() {
   $("#doge-image").append(`<img class="img-circle" src="/images/wowdoge.jpeg" />`);
 }
 
+function button2() {
+  $("#demo").html("!!!!!!!!")
+  $("#doge-image").append(`<img class="img-circle" src="/images/wowdoge.jpeg" />`);
+}
